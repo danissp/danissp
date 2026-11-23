@@ -9,7 +9,7 @@ I work as [weDigitalPLUS](https://wedigitalplus.com) and do all the work myself,
 - **Google & AI visibility (SEO & GEO):** so that when a customer asks Google or ChatGPT, your business is the answer.
 - **WordPress & WooCommerce:** new websites, redesigns and online shops.
 - **AI assistants:** a chat assistant on your site that answers from your own pages and hands the customer over to you.
-- **Ongoing care:** updates, backups and fixes, every month.
+- **Ongoing care:** I look after the site every month, so it stays up to date and working.
 
 ## Things I've built
 
