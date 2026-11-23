@@ -22,14 +22,7 @@ Both repositories describe how the tools work. The source code is private.
 
 ## Writing
 
-- [How to get your business recommended by ChatGPT](https://wedigitalplus.com/how-to-get-your-business-recommended-by-chatgpt/)
-- [What is llms.txt?](https://wedigitalplus.com/what-is-llms-txt/)
-- [The EU AI Act rules for chatbots](https://wedigitalplus.com/eu-ai-act-chatbot-rules/)
-- [More articles](https://wedigitalplus.com/blog/) · [Άρθρα στα ελληνικά](https://wedigitalplus.com/el/arthra/)
-
-## Track record
-
-100% Job Success score and 113 projects completed on Upwork.
+I write about getting found on Google and in AI answers, WordPress and AI assistants: [articles in English](https://wedigitalplus.com/blog/) · [άρθρα στα ελληνικά](https://wedigitalplus.com/el/arthra/)
 
 ## Get in touch
 
